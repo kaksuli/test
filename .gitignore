@@ -1,1 +1,16 @@
 .idea/
+/target/classes/eight/Deer.class
+/target/classes/eight/Reindeer.class
+/target/classes/three/Cougar$1.class
+/target/classes/three/Cougar.class
+/target/classes/three/HasTail.class
+/target/classes/three/Puma.class
+/target/classes/_C.class
+/target/classes/FeedSchedule.class
+/target/classes/Five.class
+/target/classes/Grasshopper.class
+/target/classes/MathFunctions.class
+/target/classes/Seven.class
+/target/classes/Two.class
+/pom.xml
+/test.iml
